@@ -1,7 +1,7 @@
 # UnrealEngineExamples
 Unreal Engine 
 
-oyun icin dosya oluşturma
+oyun icin dosya oluşturma.
 
 
 
